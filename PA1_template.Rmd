@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research Project 1"
+date: 08/26/2017
     
 ---
 
